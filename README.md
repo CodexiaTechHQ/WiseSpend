@@ -15,9 +15,9 @@
 ## 📱 App Screenshots & Preview
 
 <p align="center">
-  <img src="docs/screen1.png" width="240" alt="WiseSpend Dashboard" />
+  <img src="[docs/screen1.png](https://play-lh.googleusercontent.com/hMVS2d7Lyd4QUU6d0gLHCXsBiO7rHesedYoZEqnOA4zyan1qdQnI8vsA5wZ9DklMiUAxZyDZLCZI6SaFXhoaJA=w2560-h1440-rw)" width="240" alt="WiseSpend Dashboard" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="docs/screen2.png" width="240" alt="Expense Analytics" />
+  <img src="[docs/screen2.png](https://play-lh.googleusercontent.com/hMVS2d7Lyd4QUU6d0gLHCXsBiO7rHesedYoZEqnOA4zyan1qdQnI8vsA5wZ9DklMiUAxZyDZLCZI6SaFXhoaJA=w2560-h1440-rw)" width="240" alt="Expense Analytics" />
 </p>
 
 ---
